@@ -1,0 +1,16 @@
+{
+    "name": "AFF Character Sheet",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "icon": "/icon.svg",
+    "author": "AFF Wiki",
+    "description": "Advanced Fighting Fantasy character sheet for Owlbear Rodeo.",
+    "homepage_url": "https://github.com/WhaleCancer/aff-character-sheet",
+    "action": {
+      "title": "AFF Character Sheet",
+      "icon": "/icon.svg",
+      "popover": "/",
+      "height": 1200,
+      "width": 700
+    }
+  }
