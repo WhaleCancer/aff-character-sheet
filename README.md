@@ -31,3 +31,12 @@ npm run build
 ```
 
 The built files will be in the `dist` directory, ready to be loaded as an Owlbear Rodeo extension.
+
+## Deployment
+
+This extension is automatically deployed to GitHub Pages via GitHub Actions. See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment configuration and troubleshooting.
+
+**Quick Install in Owlbear Rodeo:**
+1. Go to Settings → Extensions
+2. Click "Add Extension"
+3. Enter: `https://whalecancer.github.io/aff-character-sheet/manifest.json`
